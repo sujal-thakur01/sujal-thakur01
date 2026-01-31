@@ -14,9 +14,9 @@
 
 ## 👋 About Me
 
-I’m **Sujal Thakur**, a 3rd-year IT student who enjoys working close to the system — reading existing codebases, understanding how things work under the hood, and improving them incrementally.
+I’m **Sujal Thakur**, a 3rd-year IT student who enjoys working close to the system reading existing codebases, understanding how things work under the hood, and improving them incrementally.
 
-I’m especially interested in **backend-heavy web systems**, **WordPress engineering**, and **open-source software** that scales to real users.
+I’m especially interested in **backend heavy web systems**, **WordPress engineering**, and **open source software** that scales to real users.
 
 I treat platforms like **WordPress as engineering systems**, not just CMS products.
 
