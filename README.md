@@ -16,18 +16,18 @@
 
 I’m **Sujal Thakur**, a 3rd-year IT student who enjoys working close to the system — reading existing codebases, understanding how things work under the hood, and improving them incrementally.
 
-I’m especially interested in **backend-heavy web systems**, open-source software, and platforms that scale to real users.
+I’m especially interested in **backend-heavy web systems**, **WordPress engineering**, and **open-source software** that scales to real users.
 
-I treat tools like **WordPress as engineering platforms**, not just CMS products.
+I treat platforms like **WordPress as engineering systems**, not just CMS products.
 
 ---
 
 ## 🧠 What I Work On
 
-- 🧩 **Backend & Web Systems** — PHP, JavaScript, MySQL, APIs, request–response flow  
-- 🧱 **WordPress Engineering** — themes, plugins, hooks, clean extensible code  
-- 🔧 **Full-Stack (MERN)** — building and shipping production-ready applications  
-- 🌱 **Open Source** — learning by contributing, reviewing PRs, and reading real-world code  
+- 🧱 **WordPress Engineering** — themes, plugins, hooks, admin tools, secure data handling  
+- 🧩 **Backend & Web Systems** — PHP, JavaScript, MySQL, APIs, request–response lifecycle  
+- 🔧 **Full-Stack Development** — MERN stack, authentication, RBAC, deployment  
+- 🌱 **Open Source** — contributing to existing codebases, improving docs, fixing real issues  
 - 📚 **Foundations** — DSA, OS, DBMS, and system fundamentals  
 
 I value **clarity, maintainability, and correctness** over flashy abstractions.
@@ -38,6 +38,7 @@ I value **clarity, maintainability, and correctness** over flashy abstractions.
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
@@ -52,11 +53,21 @@ I value **clarity, maintainability, and correctness** over flashy abstractions.
 </p>
 
 ---
+
+## 🧩 Open Source Contributions
+
+- **CircuitVerse**
+  - Improved onboarding documentation and developer setup clarity  
+  - Worked within an existing production codebase and followed contribution guidelines  
+  - PR: https://github.com/CircuitVerse/CircuitVerse/pull/6530
+
+---
+
 ## 🏆 GitHub Highlights
 
-- Consistent contribution streaks and active repositories  
-- Clean commit history with meaningful messages  
-- Open-source contributions and collaborative workflows  
+- Consistent contribution streaks across multiple repositories  
+- Clean commit history with meaningful, descriptive messages  
+- Experience collaborating via pull requests and reviews  
 
 ---
 
@@ -71,18 +82,19 @@ I value **clarity, maintainability, and correctness** over flashy abstractions.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=techbro815&label=Profile%20Views&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=sujal-thakur01&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
 
 ---
 
-## 🔍 Ask Me About
+## 🔍 Comfortable Discussing
 
-- WordPress internals (themes, plugins, hooks, architecture)
-- PHP fundamentals & backend request handling
-- Writing clean, readable, maintainable code
-- Git workflows & open-source contributions
-- DSA patterns & core CS fundamentals
+- WordPress plugin and theme fundamentals  
+- PHP basics used in real-world applications  
+- Hooks (actions & filters) and extensible design  
+- Secure form handling (nonces, capability checks)  
+- Git workflows & open-source collaboration  
+- Core CS fundamentals (DSA, OS, DBMS)
 
 ---
 
@@ -98,10 +110,18 @@ I value **clarity, maintainability, and correctness** over flashy abstractions.
 ## 🔗 Reach Me
 
 <p align="center">
-  <a href="https://sujalcodes.pages.dev"><img src="https://img.shields.io/badge/Portfolio-sujalcodes.pages.dev-9146FF?style=for-the-badge"/></a>
-  <a href="mailto:sujalthakur815@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-0078D4?style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/sujal-thakur-317257287"><img src="https://img.shields.io/badge/LinkedIn-Sujal%20Thakur-0A66C2?style=for-the-badge"/></a>
-  <a href="https://github.com/sujal-thakur01"><img src="https://img.shields.io/badge/GitHub-sujal--thakur01-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://sujalcodes.pages.dev">
+    <img src="https://img.shields.io/badge/Portfolio-sujalcodes.pages.dev-9146FF?style=for-the-badge"/>
+  </a>
+  <a href="mailto:sujalthakur815@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-0078D4?style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sujal-thakur-317257287">
+    <img src="https://img.shields.io/badge/LinkedIn-Sujal%20Thakur-0A66C2?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/sujal-thakur01">
+    <img src="https://img.shields.io/badge/GitHub-sujal--thakur01-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
